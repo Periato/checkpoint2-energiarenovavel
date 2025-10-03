@@ -45,9 +45,9 @@ Este repositório contém os arquivos referentes à entrega do projeto da discip
 ## 📈 Resultados
 
 - Análises estatísticas e gráficas dos datasets.  
-- Modelo de regressão aplicado (`Regressao_Parte_01.svg`).  
-- Modelo  
-
+- Modelo de regressão aplicado ('Regressao_Parte_01.svg').  
+- Modelo de classificação aplicado ('Classificacao_Parte01.svg').
+- Cumprimento dos objetivos propostos nos pdfs disponiblizados no Microsoft Teams.
 ---
 
 ## 👨‍💻 Autores
