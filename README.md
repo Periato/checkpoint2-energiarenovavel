@@ -8,8 +8,8 @@ Este repositório contém os arquivos referentes à entrega do projeto da discip
 
 ## 📂 Arquivos do Repositório
 
-- `CP02_001_SERS.pdf` → Documento referente à [descrição/resumo do conteúdo].  
-- `CP02_002_SERS.pdf` → Documento referente à [descrição].  
+- `CP02_001_SERS.pdf` → Documento referente à parte 1.  
+- `CP02_002_SERS.pdf` → Documento referente à parte 2.  
 - `Checkpoint_2_André.ipynb` → Notebook Jupyter com o código principal da entrega.  
 - `Regressao_Parte_01.svg` → Gráfico gerado a partir da análise de regressão.  
 - `SolarPrediction.csv` → Dataset utilizado para previsão solar.  
