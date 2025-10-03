@@ -1,6 +1,6 @@
 # checkpoint2-energiarenovavel
 
-# Projeto - [Nome da Entrega/Disciplina]
+# Projeto - CP2
 
 Este repositório contém os arquivos referentes à entrega do projeto da disciplina Soluções em Energias Renováveis e Sustentáveis.
 
@@ -15,8 +15,7 @@ Este repositório contém os arquivos referentes à entrega do projeto da discip
 - `SolarPrediction.csv` → Dataset utilizado para previsão solar.  
 - `T1.csv` → Dataset auxiliar [explicar se necessário].  
 - `energydata_complete.csv` → Dataset contendo dados de consumo energético.  
-- `smart_grid_stability_augmented.csv` → Dataset relacionado à estabilidade de redes elétricas inteligentes.  
-- `README.md` → Documento com instruções e explicações (este arquivo).  
+- `smart_grid_stability_augmented.csv` → Dataset relacionado à estabilidade de redes elétricas inteligentes.    
 
 ---
 
@@ -27,7 +26,7 @@ Este repositório contém os arquivos referentes à entrega do projeto da discip
 - **Principais colunas:** Temperatura, radiação, hora do dia, energia prevista.  
 
 ### 2. `T1.csv`
-- **Descrição:** Dataset auxiliar contendo [explicar].  
+- **Descrição:** Dataset contendo informações sobre turbinas eólicas.  
 
 ### 3. `energydata_complete.csv`
 - **Descrição:** Conjunto de dados de consumo energético em uma residência.  
@@ -39,15 +38,7 @@ Este repositório contém os arquivos referentes à entrega do projeto da discip
 
 ### 4. `smart_grid_stability_augmented.csv`
 - **Descrição:** Dados simulados de estabilidade de uma rede elétrica inteligente.  
-- **Objetivo:** prever se o sistema está estável ou instável.  
-
----
-
-## ⚙️ Como Executar
-
-1. Abra o arquivo `Checkpoint_2_André.ipynb` em um ambiente Jupyter Notebook (ou Google Colab).  
-2. Execute as células na ordem em que aparecem.  
-3. Certifique-se de que os arquivos `.csv` estejam na mesma pasta do notebook.  
+- **Objetivo:** prever se o sistema está estável ou instável.   
 
 ---
 
@@ -55,7 +46,7 @@ Este repositório contém os arquivos referentes à entrega do projeto da discip
 
 - Análises estatísticas e gráficas dos datasets.  
 - Modelo de regressão aplicado (`Regressao_Parte_01.svg`).  
-- Conclusões documentadas nos PDFs.  
+-   
 
 ---
 
