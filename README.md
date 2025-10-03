@@ -13,7 +13,7 @@ Este repositório contém os arquivos referentes à entrega do projeto da discip
 - `Checkpoint_2_André.ipynb` → Notebook Jupyter com o código principal da entrega.  
 - `Regressao_Parte_01.svg` → Gráfico gerado a partir da análise de regressão.  
 - `SolarPrediction.csv` → Dataset utilizado para previsão solar.  
-- `T1.csv` → Dataset auxiliar [explicar se necessário].  
+- `T1.csv` → Dataset contendo informações sobre turbinas eólicas.  
 - `energydata_complete.csv` → Dataset contendo dados de consumo energético.  
 - `smart_grid_stability_augmented.csv` → Dataset relacionado à estabilidade de redes elétricas inteligentes.    
 
@@ -46,16 +46,18 @@ Este repositório contém os arquivos referentes à entrega do projeto da discip
 
 - Análises estatísticas e gráficas dos datasets.  
 - Modelo de regressão aplicado (`Regressao_Parte_01.svg`).  
--   
+- Modelo  
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-- **[Seu Nome]** – [RA/Matrícula se necessário]  
+Diego - 565509
 
----
+Israel - 563435
 
-## 📅 Data da Entrega
+Pedro Miranda - 562117
 
-- [Inserir data]
+Thiago Sakai - 563448
+
+Thiago Sobral - 562695
